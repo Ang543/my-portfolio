@@ -91,7 +91,7 @@ p {
     font-size: 16px;
     /* display: flex;
     flex-wrap: wrap; */
-    width: 80%;
+    width: 100%;
     text-align: center;
 }
 
@@ -176,6 +176,26 @@ p {
 
 #chuck-n-go-img {
     background-image: url("../images/chuck-n-go.PNG");
+}
+
+#resume-img {
+    background-image: url("../images/resume.png");
+}
+
+#email-img {
+    background-image: url("../images/email.png");
+}
+
+#phone-img {
+    background-image: url("../images/phone.png");
+}
+
+#github-img {
+    background-image: url("../images/github.png");
+}
+
+#resume-img {
+    background-image: url("../images/resume.png");
 }
 
 #placeholder-img {
