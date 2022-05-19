@@ -162,9 +162,9 @@ p {
     width: 30%;
 }
 
-#runbuddy-img {
+ #runbuddy-img {
     background-image: url("../images/Run-Buddy-Screenshot.PNG");
-}
+} 
 
 #horiseon-img {
     background-image: url("../images/horiseon-Screenshot.PNG");
